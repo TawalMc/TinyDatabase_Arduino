@@ -1,0 +1,57 @@
+###########################################
+# Syntax Coloring Map For TinyDatabase
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+TinyDatabase	KEYWORD1
+TinyDatabase_Arduino	KEYWORD1
+FILTER	KEYWORD1
+Column	KEYWORD1
+TableData	KEYWORD1
+MemoryManager	KEYWORD1
+mem	KEYWORD1
+
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+PRINT	KEYWORD2
+typeIDNum	KEYWORD2
+deduceSizeof	KEYWORD2
+COUNT	KEYWORD2
+CAPACITY	KEYWORD2
+INSERT	KEYWORD2
+UPDATE	KEYWORD2
+SELECT	KEYWORD2	
+SELECT_ALL	KEYWORD2		
+DELETE	KEYWORD2
+DELETE_ALL	KEYWORD2
+WHERE	KEYWORD2
+DONE	KEYWORD2
+isColumnExist	KEYWORD2
+init	KEYWORD2
+clearAll	KEYWORD2
+size	KEYWORD2
+sizeMeta	KEYWORD2
+nbTables	KEYWORD2
+isMemoryAvailable	KEYWORD2
+printMetaData	KEYWORD2
+CREATE_TABLE	KEYWORD2
+ON	KEYWORD2
+TO	KEYWORD2
+FROM	KEYWORD2
+
+###########################################
+# Constants (LITERAL1)
+###########################################
+STATUS_TABLE_CREATED	LITERAL1
+STATUS_TABLE_EXIST	LITERAL1
+STATUS_SUF_MEMORY	LITERAL1
+STATUS_TABLE_NOT_FOUND	LITERAL1
+STATUS_COL_NOT_FOUND	LITERAL1
+STATUS_INSUF_MEMORY	LITERAL1
+STATUS_MAX_CAP_EXCEEDED	LITERAL1
+MAX_CHAR	LITERAL1
+MAX_CAP	LITERAL1
