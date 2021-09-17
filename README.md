@@ -1,6 +1,8 @@
 TinyDatabase - TinyDatabase_Arduino
 ============
 
+![TinyDatabase logo](TinyDatabase-logo-270.png)
+
 ## [Documentation available](https://tinydatabase-doc.vercel.app/)
 
 TinyDatabase is a library that allow the management of persistent internal memory (EEPROM) of microncontroller. With a syntax near to the SQL queries, it encapsulates the writing/reading of EEPROM data which was done with their address by providing a more friendly and simply API. The project is still under development and is tested only on Arduino boards with AVR ATmega 328p. We'are working to support more board and some othersdevices with EEPROM memory like the RTC-DS321,..
