@@ -28,7 +28,7 @@ As TinyDataabse is not yet stable and well documented and tested, you can't down
 Test the examples of this library to learn more
 
 # Contributor
-`This library was built and maintained by` [Tawaliou ALAO](https://github.com/TawalMc)` (this account)`. 
+`This library was built and maintained by` [Tawaliou ALAO](https://github.com/TawalMc)` Engineer at YoupiLab`. 
 
 - _Thanks to my brother ALIDOU Abdoul Majeed who help me to define the database architecture_
 

@@ -1,3 +1,15 @@
+/**
+ * @author Tawaliou ALAO Engineer at YoupiLab (sales@youpilab.com)
+ * @remark Thanks to my brother ALIDOU Abdoul Majeed to help to define the database architecture
+ * @remark Thanks to YoupiLab: https://youpilab.com/ to support the project
+ * @brief  A tiny database to manipulate EEPROM easily
+ * @version 1.0.0
+ * @date 2021-09-15
+ *
+ * @copyright Copyright (c) 2021
+ *
+ */
+
 #ifndef TINY_DATABASE_ARDUINO
 #define TINY_DATABASE_ARDUINO
 

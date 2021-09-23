@@ -1,6 +1,5 @@
 /**
- * @file WHERE.ino
- * @author Tawaliou ALAO (alaotawaliou@gmail.com)
+ * @author Tawaliou ALAO Engineer at YoupiLab (sales@youpilab.com)
  * @remark Thanks to my brother ALIDOU Abdoul Majeed to help to define the database architecture
  * @remark Thanks to YoupiLab: https://youpilab.com/ to support the project
  * @brief  A tiny database to manipulate EEPROM easily
