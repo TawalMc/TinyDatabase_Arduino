@@ -1169,7 +1169,7 @@ void MemoryManager::init() {
 }
 
 void MemoryManager::clearAll() {
-  for (int i = START_DB; i <= END_DB; i++) {
+  for (int i = 0; i <= END_DB; i++) {
     EEPROM.write(i, ZERO);
   }
   Serial.println("...END...");
